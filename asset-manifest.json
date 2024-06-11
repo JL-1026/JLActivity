@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JL-1026/JLActivity.git/static/css/main.e6c13ad2.css",
+    "main.js": "/JL-1026/JLActivity.git/static/js/main.6b4c0bb4.js",
+    "static/js/453.ed3810f9.chunk.js": "/JL-1026/JLActivity.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/JL-1026/JLActivity.git/index.html",
+    "main.e6c13ad2.css.map": "/JL-1026/JLActivity.git/static/css/main.e6c13ad2.css.map",
+    "main.6b4c0bb4.js.map": "/JL-1026/JLActivity.git/static/js/main.6b4c0bb4.js.map",
+    "453.ed3810f9.chunk.js.map": "/JL-1026/JLActivity.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6b4c0bb4.js"
+  ]
+}
